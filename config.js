@@ -9,9 +9,9 @@ module.exports = {
   LANG: process.env.LANG || "EN",
   HANDLERS: process.env.HANDLER === "false" || process.env.HANDLER === "null"
       ? "^"
-      : "[-]",
+      : "[!]",
   BRANCH: "main",
-  PACKNAME: process.env.PACKNAME || "WhatsApp Bot",
+  PACKNAME: process.env.PACKNAME || "Queen Arya Bot",
   AUTHOR: process.env.AUTHOR || "Mack",
   SUDO: process.env.SUDO || "918848636819",
   OWNER_NAME: process.env.OWNER_NAME || "Mack",
