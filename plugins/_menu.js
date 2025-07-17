@@ -76,7 +76,7 @@ bot(
     await message.client.sendMessage(
       message.jid,
       {
-        image: { url: 'https://files.catbox.moe/45n54r.png' },
+        image: { url: 'https://cdn.ironman.my.id/i/o1jesr.jpg' },
         caption: menu,
         title: "",
         subtitle: "Connect with us",
